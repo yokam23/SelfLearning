@@ -3,8 +3,8 @@
 
 	<listeners>
 		<listener class-name="com.concerto.common.listeners.SuiteListeners"> </listener>
-		<listener class-name="com.concerto.common.listeners.TestListeners"></listener>
-		<listener class-name="com.concerto.common.listeners.CustomReporter"></listener>
+		<listener class-name="com.concerto.cofghfghfghfghmmon.listeners.TestListeners"></listener>
+		<listener class-name="com.concerfghfghfghfghgfhfghfthto.common.listeners.CustomReporter"></listener>
 		<!--listener class-name="com.concerto.common.listeners.AnnotationTransformer"></listener-->
 		<listener class-name="com.concerto.common.listeners.ListenerAdapter"></listener>
 	</listeners>
@@ -22,8 +22,8 @@
         		</run>	
      </groups>	
         <classes>
-            <class name="com.concerto.vegaah.test.scenarios.VegaahReports.DBReportValidation"/>
-            <class name="com.concerto.vegaah.test.scenarios.VegaahReports.BrokerReport"/>
+            <class name="com.concerto.fghfghfghfghvegaah.test.scenarios.VegaahReports.DBReportValidation"/>
+            <class name="com.concerfghfghfghfghfghfghos.VegaahReports.BrokerReport"/>
         </classes>
     </test>
 </suite>
